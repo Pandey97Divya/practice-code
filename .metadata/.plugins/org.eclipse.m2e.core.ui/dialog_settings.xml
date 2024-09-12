@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="F:\Automation\oopsconcepts\src\main\java\oopsconcepts\oopsconcepts\ArrayPrime.java"/>
+			<item value="C:\Users\lenovo\OneDrive\Documents\GitHub\Practice1"/>
+			<item value="F:\Automation\api1\src\main\java\apitesting\api1\App.java"/>
+			<item value="F:\Automation\test9\src\main\java\testing9\test9\App.java"/>
+			<item value="F:\Automation\test1\src\main\java\testing1\test1\App.java"/>
+			<item value="F:\Automation\automate\pom.xml"/>
+			<item value="F:\Automation\test7\src\main\java\testing7\test7\App.java"/>
+			<item value="F:\Automation\test6\src\main\java\testing6\test6\App.java"/>
+			<item value="F:\Automation\test3\src\main\java\testing3\test3\App.java"/>
+			<item value="F:\Automation\test\src\main\java\testing\test\App.java"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="testng.pro"/>
+			<item value="restassuredpart.restassuredpart"/>
+			<item value="testng1.testng"/>
+			<item value="javaoopsprogram.javaoopsprogram"/>
+			<item value="apiautomationpractice.apipractice1"/>
+			<item value="demoproject.demoproject"/>
+			<item value="demoproject.final"/>
+			<item value="bca.student"/>
+			<item value="oops1.oops1"/>
+			<item value="googleproject.google"/>
+			<item value="Projectpractice1.projectdemo"/>
+			<item value="automationpart1.automatepart"/>
+			<item value="testing11.test11"/>
+			<item value="automate1.automate"/>
+			<item value="testing10.test10"/>
+		</list>
+		<list key="groupId">
+			<item value="testng"/>
+			<item value="restassuredpart"/>
+			<item value="testng1"/>
+			<item value="javaoopsprogram"/>
+			<item value="apiautomationpractice"/>
+			<item value="demoproject"/>
+			<item value="bca"/>
+			<item value="oops1"/>
+			<item value="googleproject"/>
+			<item value="Projectpractice1"/>
+			<item value="automationpart1"/>
+			<item value="testing11"/>
+			<item value="automate1"/>
+			<item value="testing10"/>
+			<item value="testing9"/>
+		</list>
+		<list key="artifactId">
+			<item value="pro"/>
+			<item value="restassuredpart"/>
+			<item value="testng"/>
+			<item value="javaoopsprogram"/>
+			<item value="apipractice1"/>
+			<item value="demoproject"/>
+			<item value="final"/>
+			<item value="student"/>
+			<item value="oops1"/>
+			<item value="google"/>
+			<item value="projectdemo"/>
+			<item value="automatepart"/>
+			<item value="test11"/>
+			<item value="automate"/>
+			<item value="test10"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+</section>

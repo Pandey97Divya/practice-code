@@ -1,0 +1,35 @@
+package javapractice1.java1;
+import java.util.*;
+
+public class StringCode {
+	public static void main(String args[]) {
+		String str="Pandey97Divya@gmail.com";
+		str= str.toLowerCase();
+		str=str.replaceAll("[^a-z]", "");
+	    HashMap<Character,Integer> ob1=new HashMap<Character, Integer>();
+	    for(int i=0;i<str.length();i++) {
+	    	if(ob1.containsKey(str.charAt(i))) {
+	    		int count=ob1.get(str.charAt(i));
+	    	ob1.put(str.charAt(i), ++count);
+	    	}else {
+	    		ob1.put(str.charAt(i),1);
+	    	}
+	    }
+		//str=str.toLowerCase();
+		System.out.println(str);
+		System.out.println(ob1);
+		//str=str.replaceAll("[^97]","");
+		//str=str.replaceAll("[^pdgc]", "");
+		//str=str.replaceAll("[^a-z]", "");
+		//System.out.println(str);
+//		str=str.replaceAll("[^A-Za-z0-9]", "");
+//		System.out.println(str);
+//		int count=0;
+//		for(int i=0;i<str.length();i++) {
+//			if(str.charAt(i)=='p') {
+//				count++;
+//			}
+//		}
+//		System.out.println(count);
+	}
+}

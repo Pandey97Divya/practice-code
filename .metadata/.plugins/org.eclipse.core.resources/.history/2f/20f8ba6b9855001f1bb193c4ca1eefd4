@@ -1,0 +1,13 @@
+package javapractice1.java1;
+
+public class StringCode2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		String str= "I am living in Faridabad";
+		String[] str1 = str.split(" ");
+		System.out.println(str1[0]);
+
+	}
+
+}

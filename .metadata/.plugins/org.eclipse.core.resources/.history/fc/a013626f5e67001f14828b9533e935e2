@@ -1,0 +1,25 @@
+package javainfosyspractice.javainfosys;
+
+import java.util.HashMap;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        String s= "Software Testing Software Testing Software Testing";
+        s= s.toLowerCase();
+        String[] str= s.split(" ");
+        HashMap <String , Integer> obj1= new HashMap <String , Integer>();
+        for(int i=0; i<str.length;i++) {
+//        	System.out.print(str[i]);
+        	String temp= str[i];
+        	for(int j=temp.length()-1;j>=0;j--) {
+        		System.out.println(temp.charAt(j));
+        	}
+        }
+    }
+}
